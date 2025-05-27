@@ -1,0 +1,25 @@
+.text-list {
+  list-style: initial;
+}
+
+.text-list li {
+  list-style-position: inside;
+  line-height: 24px;
+}
+
+.project-sidebar > div {
+  margin-bottom: 22px;
+  padding-bottom: 12px;
+}
+
+.project-sidebar h4 {
+  margin-bottom: 15px;
+}
+
+.footer.style-1 {
+  padding: 40px 0 40px 0;
+}
+
+.footer.style-1.dark ul {
+  margin-bottom: 15px;
+}
